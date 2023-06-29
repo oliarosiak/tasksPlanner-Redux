@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tasksPlanner-Redux/static/css/main.3c4398f8.css",
-    "main.js": "/tasksPlanner-Redux/static/js/main.e233587a.js",
+    "main.js": "/tasksPlanner-Redux/static/js/main.5f098ffa.js",
     "index.html": "/tasksPlanner-Redux/index.html",
     "main.3c4398f8.css.map": "/tasksPlanner-Redux/static/css/main.3c4398f8.css.map",
-    "main.e233587a.js.map": "/tasksPlanner-Redux/static/js/main.e233587a.js.map"
+    "main.5f098ffa.js.map": "/tasksPlanner-Redux/static/js/main.5f098ffa.js.map"
   },
   "entrypoints": [
     "static/css/main.3c4398f8.css",
-    "static/js/main.e233587a.js"
+    "static/js/main.5f098ffa.js"
   ]
 }

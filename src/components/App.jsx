@@ -1,16 +1,16 @@
-export const App = () => {
+import { Layout } from "components/layout/Layout";
+import { AppBar } from "components/appBar/AppBar";
+import { TaskForm } from "components/taskForm/TaskForm";
+import { TaskList } from "components/taskList/TaskList";
+
+const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Layout>
+      <AppBar />
+      <TaskForm />
+      <TaskList />
+    </Layout>
   );
 };
+
+export default App;
